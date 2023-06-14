@@ -1,4 +1,9 @@
 # Hi! I am Jason. 👋
+Hi there! Welcome to my GitHub profile. I'm Jason, a passionate software engineering. Although I may not have a long list of professional experiences or awards to showcase, I'm enthusiastic about learning and contributing to the world of computer programming.
+
+Feel free to explore my repositories and projects. If you have any questions, suggestions, or would like to collaborate on an exciting project, please don't hesitate to reach out to me. I'm always open to new opportunities and connections.
+
+Thank you for stopping by and have a great day!
 
 <!--
 **platosw/platosw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
