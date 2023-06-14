@@ -5,6 +5,10 @@ Feel free to explore my repositories and projects. If you have any questions, su
 
 Thank you for stopping by and have a great day!
 
+## Contact me 📬
+
+<a href="mailto: jason.park.dev@gmail.com"><img src="https://img.shields.io/badge/yeana.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF" /></a> <a href="https://www.linkedin.com/in/platosw" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=FFFFFF" /></a>
+
 <!--
 **platosw/platosw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
