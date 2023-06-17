@@ -1,5 +1,5 @@
 # Hi! I am Jason. 👋
-Hi there! Welcome to my GitHub profile. I'm Jason, a passionate software engineering. Although I may not have a long list of professional experiences or awards to showcase, I'm enthusiastic about learning and contributing to the world of computer programming.
+Hi there! Welcome to my GitHub profile. Entry-level software engineer with an emphasis in web development committed to building well-designed systems with best practices. Most experienced in developing full-stack applications using React for the front-end, NodeJS/ Express,  Flask, or Django to create RESTful APIs and service-oriented architectures for the back-end.
 
 Feel free to explore my repositories and projects. If you have any questions, suggestions, or would like to collaborate on an exciting project, please don't hesitate to reach out to me. I'm always open to new opportunities and connections.
 
